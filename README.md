@@ -24,14 +24,3 @@
 <a href="mailto:sozoncel" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="sozoncel" height="40" width="40" /></a>
 <a href="mailto:sozoncel" target="blank"><b>ozoncelsddk@gmail.com</b></a>
 </p>
-<p align="left">
-	
-	<a href="https://linkedin.com/in/sozoncel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sozoncel" height="30" width="40" /></a>
-	<a href="https://instagram.com/sozoncel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sozoncel" height="30" width="40" /></a>
-	<br><b>And at all other platforms, I'm @sozoncel</b>
-</p>
-
-
-<!-- <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sozoncel&show_icons=true&locale=en&layout=compact&theme=dark&title_color=0088FF&border_color=0088FF" alt="sozoncel" />
-</p> -->
