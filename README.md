@@ -2,7 +2,7 @@
 <h3> 💻 I’m a Computer Engineer</h3>
 
 
-🧬 I improv myself in Backend development with mostly **.Net and PHP**
+🧬 I improv myself in Backend development with mostly **.Net**
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
